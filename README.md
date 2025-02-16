@@ -23,12 +23,10 @@
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
   </a>
-  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" width="40" height="40"/>
-  </a>
+
 </p>
 
-<h3 align="left">🚀 What I'm Learning:</h3>
+<h3 align="left">🚀 Recently Learned:</h3>
 <p align="left">
   - Full-stack web development (React, Node.js, SQL, PostgreSQL) <br>
   - Test-driven development (TDD), paired programming, and Agile methodologies <br>
